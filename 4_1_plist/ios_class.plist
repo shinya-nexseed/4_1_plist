@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>お名前</key>
+		<string>伊藤満里奈</string>
+		<key>年齢</key>
+		<string>22歳</string>
+		<key>性別</key>
+		<string>女</string>
+	</dict>
+	<dict>
+		<key>お名前</key>
+		<string>平井真哉</string>
+		<key>年齢</key>
+		<string>25歳</string>
+		<key>性別</key>
+		<string>男</string>
+	</dict>
+</array>
+</plist>
